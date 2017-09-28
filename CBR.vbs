@@ -5,7 +5,6 @@ Do While (Hour(Now) < 8)
 Loop
 
 
-
 oneMinInSec = 60
 Dim objShell
 Set objShell = WScript.CreateObject("WScript.Shell")
